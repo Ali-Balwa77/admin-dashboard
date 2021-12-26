@@ -1,0 +1,12 @@
+GET https://dportfolioserver.herokuapp.com/
+
+###
+GET https://dportfolioserver.herokuapp.com/req
+
+###
+
+POST http://localhost:3000/client/
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZDU4YTFlZGJkNzFhNWUwYzg1ZGJlMiIsImlhdCI6MTYyNDYwNzI2MiwiZXhwIjoxNjI0NjkzNjYyfQ.tKypzinXAjrW_hjvfC_fJ3rn-Ly-1a0P9W-KUeZR1W0
